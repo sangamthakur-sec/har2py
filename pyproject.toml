@@ -2,6 +2,7 @@
 name = "har2py"
 version = "0.1.1"
 description = ""
+authors="Sangam Thakur"
 
 
 [tool.poetry.dependencies]
